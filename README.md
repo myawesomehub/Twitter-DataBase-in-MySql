@@ -16,3 +16,6 @@ To get a local copy and plyaing with that , follow these simple steps .
 
 ## Usage
 You can use this database to query the tables and select the things , you can practice and play with it . And also if you are looking for a database to integrate in some short of UI based application . Just downlaod the files and play with it .
+
+## Contact 
+[Profile] : https://github.com/myawesomehub
